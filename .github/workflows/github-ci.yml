@@ -52,8 +52,8 @@ jobs:
             # TODO-STEP 4b: Add command to install dependencies
             - name: Install dependencies
               run: |
-                  cython -m pip install --upgrade pip
-                  cpip install -r requirements.txt
+                  python -m pip install --upgrade pip
+                  pip install -r requirements.txt
 
             # TODO-STEP 4c: Add command to run tests
             # Hint: Use pytest to run your test cases
