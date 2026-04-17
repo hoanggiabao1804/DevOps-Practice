@@ -1,4 +1,4 @@
-# GitHub Actions CI/CD Exercise: Python Backend Project
+# GitHub Actions CI/CD Exercise: Python Backend Project.
 
 In this exercise, you will create and run your first CI/CD pipeline on GitHub Actions. You will learn how to configure a simple pipeline and how to run it, and also explore some advanced features of GitHub Actions.
 
